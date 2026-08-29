@@ -1,0 +1,17 @@
+# Core
+torch
+torchvision
+transformers
+peft
+accelerate
+streamlit
+
+# Optional but recommended
+bitsandbytes
+sentencepiece
+protobuf
+safetensors
+huggingface-hub
+
+# For data (if needed later)
+datasets
